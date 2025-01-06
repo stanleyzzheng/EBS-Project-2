@@ -30,9 +30,9 @@ This project emphasizes the Financial Modules in Oracle EBS, covering the core f
 
 ### Repository Structure:
 
-Project2/: Contains documents and resources related to Supply Chain Management modules.
+Project2-SCM/: Contains documents and resources related to Supply Chain Management modules.
 
-Project3/: Contains documents and resources related to Financial modules.
+Project3-FM/: Contains documents and resources related to Financial modules.
 
 ### Purpose:
 
