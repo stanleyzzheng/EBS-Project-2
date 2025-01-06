@@ -28,7 +28,7 @@ This project emphasizes the Financial Modules in Oracle EBS, covering the core f
 
 - Fixed Assets: Manage and track the organization’s fixed assets.
 
-Repository Structure:
+### Repository Structure:
 
 Project2/: Contains documents and resources related to Supply Chain Management modules.
 
