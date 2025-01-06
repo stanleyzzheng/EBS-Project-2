@@ -8,11 +8,11 @@ This project focuses on the Supply Chain Management modules in Oracle EBS. The g
 
 ### Modules:
 
-Inventory: Manage and track inventory levels, locations, and transactions.
+- Inventory: Manage and track inventory levels, locations, and transactions.
 
-Order Management: Handle order processing and fulfillment efficiently.
+- Order Management: Handle order processing and fulfillment efficiently.
 
-Procurement: Streamline the purchase of goods and services from suppliers.
+- Procurement: Streamline the purchase of goods and services from suppliers.
 
 ## Project 3: Financial Management
 
@@ -20,13 +20,13 @@ This project emphasizes the Financial Modules in Oracle EBS, covering the core f
 
 ### Modules:
 
-General Ledger: Manage financial data and generate financial statements.
+- General Ledger: Manage financial data and generate financial statements.
 
-Accounts Receivables: Track and process incoming payments from customers.
+- Accounts Receivables: Track and process incoming payments from customers.
 
-Accounts Payables: Handle vendor invoices and outgoing payments.
+- Accounts Payables: Handle vendor invoices and outgoing payments.
 
-Fixed Assets: Manage and track the organization’s fixed assets.
+- Fixed Assets: Manage and track the organization’s fixed assets.
 
 Repository Structure:
 
